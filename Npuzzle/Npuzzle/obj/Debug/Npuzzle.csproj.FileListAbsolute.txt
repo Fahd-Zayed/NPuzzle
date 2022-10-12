@@ -1,0 +1,28 @@
+D:\Algorithm Project Final\my project\Npuzzle\Npuzzle\bin\Debug\Npuzzle.exe.config
+D:\Algorithm Project Final\my project\Npuzzle\Npuzzle\bin\Debug\Npuzzle.exe
+D:\Algorithm Project Final\my project\Npuzzle\Npuzzle\bin\Debug\Npuzzle.pdb
+D:\Algorithm Project Final\my project\Npuzzle\Npuzzle\obj\Debug\Npuzzle.csprojAssemblyReference.cache
+D:\Algorithm Project Final\my project\Npuzzle\Npuzzle\obj\Debug\Npuzzle.csproj.CoreCompileInputs.cache
+D:\Algorithm Project Final\my project\Npuzzle\Npuzzle\obj\Debug\Npuzzle.exe
+D:\Algorithm Project Final\my project\Npuzzle\Npuzzle\obj\Debug\Npuzzle.pdb
+D:\Algorithm Project Final\ab3to 3l gp\my project\Npuzzle\Npuzzle\bin\Debug\Npuzzle.exe.config
+D:\Algorithm Project Final\ab3to 3l gp\my project\Npuzzle\Npuzzle\bin\Debug\Npuzzle.exe
+D:\Algorithm Project Final\ab3to 3l gp\my project\Npuzzle\Npuzzle\bin\Debug\Npuzzle.pdb
+D:\Algorithm Project Final\ab3to 3l gp\my project\Npuzzle\Npuzzle\obj\Debug\Npuzzle.csprojAssemblyReference.cache
+D:\Algorithm Project Final\ab3to 3l gp\my project\Npuzzle\Npuzzle\obj\Debug\Npuzzle.csproj.CoreCompileInputs.cache
+D:\Algorithm Project Final\ab3to 3l gp\my project\Npuzzle\Npuzzle\obj\Debug\Npuzzle.exe
+D:\Algorithm Project Final\ab3to 3l gp\my project\Npuzzle\Npuzzle\obj\Debug\Npuzzle.pdb
+C:\Users\3step for lp top\Desktop\T042\T042\Npuzzle\Npuzzle\bin\Debug\Npuzzle.exe.config
+C:\Users\3step for lp top\Desktop\T042\T042\Npuzzle\Npuzzle\bin\Debug\Npuzzle.exe
+C:\Users\3step for lp top\Desktop\T042\T042\Npuzzle\Npuzzle\bin\Debug\Npuzzle.pdb
+C:\Users\3step for lp top\Desktop\T042\T042\Npuzzle\Npuzzle\obj\Debug\Npuzzle.csprojAssemblyReference.cache
+C:\Users\3step for lp top\Desktop\T042\T042\Npuzzle\Npuzzle\obj\Debug\Npuzzle.csproj.CoreCompileInputs.cache
+C:\Users\3step for lp top\Desktop\T042\T042\Npuzzle\Npuzzle\obj\Debug\Npuzzle.exe
+C:\Users\3step for lp top\Desktop\T042\T042\Npuzzle\Npuzzle\obj\Debug\Npuzzle.pdb
+D:\T042\T042\Npuzzle\Npuzzle\bin\Debug\Npuzzle.exe.config
+D:\T042\T042\Npuzzle\Npuzzle\bin\Debug\Npuzzle.exe
+D:\T042\T042\Npuzzle\Npuzzle\bin\Debug\Npuzzle.pdb
+D:\T042\T042\Npuzzle\Npuzzle\obj\Debug\Npuzzle.csprojAssemblyReference.cache
+D:\T042\T042\Npuzzle\Npuzzle\obj\Debug\Npuzzle.csproj.CoreCompileInputs.cache
+D:\T042\T042\Npuzzle\Npuzzle\obj\Debug\Npuzzle.exe
+D:\T042\T042\Npuzzle\Npuzzle\obj\Debug\Npuzzle.pdb
